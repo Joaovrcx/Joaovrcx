@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá! Seja bem-vindo ao meu GitHub.
 
-<!--
-**Joaovrcx/Joaovrcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio e tenho interesse na área de Tecnologia da Informação.
 
-Here are some ideas to get you started:
+Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
+💻 Conhecimentos básicos em Python.
+
+🌐 Inglês avançado.
+
+🤖 Interesse em desenvolvimento de software e ferramentas de Inteligência Artificial.
+
+🚀 Buscando desenvolver soluções práticas e ampliar minha experiência na área de tecnologia.
+
+Tecnologias e ferramentas
+
+Python
+
+Git e GitHub
+
+Objetivo
+
+Desenvolver projetos práticos, aprender novas tecnologias e contribuir com soluções na área de TI.
+
+
