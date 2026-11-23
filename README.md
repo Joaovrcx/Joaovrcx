@@ -6,20 +6,20 @@ Sobre mim:
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-💻 Conhecimentos básicos em Python.
+💻 Conhecimentos em Python.
 
 🌐 Inglês avançado.
 
-🤖 Interesse em desenvolvimento de software e ferramentas de Inteligência Artificial.
+🚀 Interesse em desenvolvimento de software, tecnologia e resolução de problemas.
 
-🚀 Buscando desenvolver soluções práticas e ampliar minha experiência na área de tecnologia.
+📚 Sempre buscando aprender e desenvolver novas habilidades.
 
 Tecnologias e ferramentas:
 
-Python
-Git e GitHub
-SQL
+-Python
+-Git
+-GitHub
 
 Objetivo:
 
--Desenvolver projetos práticos, aprender novas tecnologias e contribuir com soluções na área de TI.
+Desenvolver projetos práticos, aprimorar minhas habilidades técnicas e construir soluções na área de tecnologia.
