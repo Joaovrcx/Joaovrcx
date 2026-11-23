@@ -2,7 +2,7 @@ Olá! Seja bem-vindo ao meu GitHub.
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Estácio e tenho interesse na área de Tecnologia da Informação.
 
-Sobre mim
+Sobre mim:
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
@@ -14,14 +14,12 @@ Sobre mim
 
 🚀 Buscando desenvolver soluções práticas e ampliar minha experiência na área de tecnologia.
 
-Tecnologias e ferramentas
+Tecnologias e ferramentas:
 
 Python
-
 Git e GitHub
+SQL
 
-Objetivo
+Objetivo:
 
-Desenvolver projetos práticos, aprender novas tecnologias e contribuir com soluções na área de TI.
-
-
+-Desenvolver projetos práticos, aprender novas tecnologias e contribuir com soluções na área de TI.
